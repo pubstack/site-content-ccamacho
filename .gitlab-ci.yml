@@ -1,0 +1,71 @@
+image: ruby:2.2
+
+stages:
+  - deploy
+  - deploy_draft
+
+before_script:
+  - whoami
+  # install ssh-agent
+  - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
+  # run ssh-agent
+  - eval $(ssh-agent -s)
+  # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
+  - ssh-add <(echo "$SSH_PRIVATE_KEY")
+  # disable host key checking (NOTE: makes you susceptible to man-in-the-middle attacks)
+  # WARNING: use only in docker container, if you use it with shell you will overwrite your user's ssh config
+  - mkdir -p ~/.ssh
+  - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
+  - git config --global user.email "ccamacho@formulad.org"
+  - git config --global user.name "FormulaD bot"
+
+sync_site:
+  stage: deploy
+  script:
+    - mkdir temp
+    - cd temp
+    - git clone --recursive git@gitlab.com:formulad/site-content.git
+    - cd ./site-content/_posts/ccamacho
+    - git checkout master && git pull
+    - cd ../../
+    - git add *
+    - git commit -m "Pulled down latest content from site-content-ccamacho"
+    - git push origin master
+
+build_draft:
+  stage: deploy_draft
+  script:
+    - mkdir temp
+    - cd temp
+    - git clone --recursive git@gitlab.com:formulad/site-theme.git
+    - cd site-theme
+    # Clone the submodule content
+    - git submodule update --init --recursive
+    # Install dependencies
+    - gem install jekyll -v 3.6.0
+    - gem install flickraw
+    - gem install rqrcode_png
+    - gem install yt
+    - gem install jekyll-paginate-v2
+    # Build the site
+    - ./scripts/build_site.sh include-drafts
+    # Install Java deps for s3_website
+    - echo "deb http://ppa.launchpad.net/webupd8team/java/ubuntu trusty main" >> /etc/apt/sources.list.d/java-8-debian.list
+    - echo "deb-src http://ppa.launchpad.net/webupd8team/java/ubuntu trusty main" >> /etc/apt/sources.list.d/java-8-debian.list
+    - apt-key adv --keyserver keyserver.ubuntu.com --recv-keys EEA14886
+    - apt-get update
+    - echo "oracle-java8-installer shared/accepted-oracle-license-v1-1 select true" | debconf-set-selections
+    - apt-get install -y oracle-java8-installer
+    - apt-get install -y oracle-java8-set-default
+    # Install s3_website
+    - gem install s3_website
+    - echo "Deploying site to draft, OK"
+    - sed -i 's/Allow/Disallow/g' ./fd/_site/robots.txt
+    - sed -i '/www.formulad/d' ./fd/_site/robots.txt
+    - s3_website push --config-dir=s3_draft_conf --site=./fd/_site --verbose
+  environment:
+    name: draft
+    url: https://draft.frmld.org
+  variables:
+    S3_ACCESS_KEY_ID: $S3_ACCESS_KEY_ID
+    S3_SECRET_KEY: $S3_SECRET_KEY
