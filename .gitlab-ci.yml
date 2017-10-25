@@ -1,3 +1,6 @@
+variables:
+  FORMULAD_USER: "ccamacho"
+
 image: ruby:2.2
 
 stages:
@@ -25,11 +28,11 @@ sync_site:
     - mkdir temp
     - cd temp
     - git clone --recursive git@gitlab.com:formulad/site-content.git
-    - cd ./site-content/_posts/ccamacho
+    - cd ./site-content/_posts/$FORMULAD_USER
     - git checkout master && git pull
     - cd ../../
     - git add *
-    - git commit -m "Pulled down latest content from site-content-ccamacho"
+    - git commit -m "Pulled down latest content from site-content-$FORMULAD_USER"
     - git push origin master
 
 build_draft:
