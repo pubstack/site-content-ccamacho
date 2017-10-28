@@ -28,7 +28,9 @@ sync_site:
     - mkdir temp
     - cd temp
     - git clone --recursive git@gitlab.com:formulad/site-content.git
-    - cd ./site-content/_posts/$FORMULAD_USER
+    - cd ./site-content
+    - git submodule update --recursive --remote
+    - cd ./_posts/$FORMULAD_USER
     - git checkout master && git pull
     - cd ../../
     - git add *
