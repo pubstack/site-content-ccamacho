@@ -9,3 +9,6 @@ press team content.
 As all the site is text, we will use GitLab for versioning
 and to control the deployment pipelines when a press team
 member publish new content to the site.
+
+
+![](images/tutorial_00.png)
