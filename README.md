@@ -36,14 +36,18 @@ content.
 ![](images/tutorial_04.png)
 
 ### How to upload a new post
+![](images/tutorial_05.png)
 
-## Images folder
+
+
 
 ### How to upload a new image
+![](images/tutorial_06.png)
+
 
 
 ## How to verify the recently posted article
 
 ## Finishing the process
-
+![](images/tutorial_07.png)
 
