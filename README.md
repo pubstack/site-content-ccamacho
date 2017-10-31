@@ -22,7 +22,9 @@ content.
 * B: Images folder. I this folder each writer can add their own pictures for their articles, there
 must be uploaded only JPG, PNG and GIF images.
 * C: Demo post with all markdown syntax. This is a demo post with all the information needed to create
-new articles. Writers can copy/paste this file and update it according their needs.
+new articles. Writers can copy/paste this file and update it according their needs. The naming convention
+for this file is `YYYY-MM-DD-WIP-<slug>.md` where the `WIP` word must be removed once the writer finish the post, and
+the slugh is usually the title in which each word is separated by a dash `-`. There MUST not be any space in the file names.
 * D: This README.md tutorial
 
 ## Demo post content and syntax
