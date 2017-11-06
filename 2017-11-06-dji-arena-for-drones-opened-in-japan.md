@@ -2,7 +2,7 @@
 layout: post
 locale: en
 
-title: DJI Arena for drones opened in South Korea
+title: DJI Arena for drones opened in Japan
 
 # All content goes under this category in the URL to
 # reference blog posts or news.
@@ -60,7 +60,7 @@ collaboration with DJI Japan.
 #### Arena
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-japan-03.jpg" alt="">
+    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-japan-03.jpg" alt="">
         <p class="text-white">
 The fly arena is equipped with safety
 net and a customizable circuit for those

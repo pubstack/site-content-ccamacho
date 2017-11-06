@@ -60,7 +60,7 @@ colaboración con DJI Japan.
 #### Arena
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-japan-03.jpg" alt="">
+    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-japan-03.jpg" alt="">
         <p class="text-white">
 El estadio de vuelo está equipado con seguridad
 red y un circuito personalizable para aquellos

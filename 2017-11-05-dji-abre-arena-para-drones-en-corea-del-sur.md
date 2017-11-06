@@ -53,7 +53,7 @@ y tener un lugar propio de entrenamiento.
 #### Fly
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-02.jpg" alt="">
+    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-02.jpg" alt="">
         <p class="text-white">
 Los pilotos de drones pueden usar la arena por sólo 14
 dólares por 3 horas. Para evitar colisiones, hasta 12
@@ -78,7 +78,7 @@ donde los pilotos pueden realizar reparaciones o mantenimiento a los drones.
 #### Spectators
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-04.jpg" alt="">
+    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-04.jpg" alt="">
         <p class="text-white">
 También es accesible para los espectadores.
 Se ha creado un espacio especial donde los espectadores

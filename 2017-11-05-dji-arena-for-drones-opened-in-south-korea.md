@@ -105,5 +105,5 @@ the drone manufacturer may soon be presenting a FPV race.
 
 
 {:.nk-post-img}
-<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-05.jpg">
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-06.jpg">
 
