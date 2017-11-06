@@ -201,11 +201,6 @@ corresponding hole on the bottom plate.
 
 #### Step 11: Secure the arms
 
-To attach the arms, take 4x M3x32MM screws
-and start screwing them into the bottom plate.
-As soon as you reach the top plate. Take the M3
-washers before screwing on the 4x M3
-self-locking nuts.
 <div class="row vertical-gap">
 <div class="col-lg-4 col-md-4">
     <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-15.jpg" alt="">
@@ -217,10 +212,17 @@ self-locking nuts.
     <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-17.jpg" alt="">
 </div>
 </div>
+
+To attach the arms, take 4x M3x32MM screws
+and start screwing them into the bottom plate.
+As soon as you reach the top plate. Take the M3
+washers before screwing on the 4x M3
+self-locking nuts.
+
 #### Step 12: FINISH IT
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-18.jpg" alt="">
+    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-18.jpg" alt="">
         <p class="text-white">
 Now simply push the bumper balls into the holes provided and install the camera plate.
 You are done. I hope you have a lot of fun with this little quad.
