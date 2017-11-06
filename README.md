@@ -122,3 +122,9 @@ The content sections are:
 
 Once the process is finished a person with enough rights will change the published status to `true` (A).
 ![](images/tutorial_07.png)
+
+# Markdown equivalence between the preview and the article .md source file
+
+In the following picture you will be able to see the equivalence between the published Markdown file and
+the article preview available in http://draft.frmld.org/<your article identifier>.
+![](images/tutorial_08.png)
