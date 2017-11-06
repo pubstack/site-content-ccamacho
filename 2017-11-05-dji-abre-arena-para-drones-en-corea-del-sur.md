@@ -106,5 +106,5 @@ el fabricante podría plantear a futuro carreras de FPV.
 
 
 {:.nk-post-img}
-<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-05.jpg">
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-06.jpg">
 
