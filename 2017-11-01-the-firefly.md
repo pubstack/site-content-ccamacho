@@ -77,7 +77,7 @@ so you better print a few spare parts.
 #### Step 3: Start the build
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-04.jpg" alt="">
+    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-04.jpg" alt="">
         <p class="text-white">
 Use 4x M3x10MM to secure the bumper together with the bottom plate.
 The next step is to fix both sides with 4x M2x10MM screws each.
@@ -98,7 +98,7 @@ And you also need at least a 400mm long carbon fiber tube with an outer diameter
 #### Step 5: Cutting the carbon fiber
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-06.jpg" alt="">
+    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-06.jpg" alt="">
         <p class="text-white">
 To make sure the motor mount and the arm itself sits cuddly
 in place are not jiggling arround or twisting we need to drill
@@ -119,7 +119,7 @@ fine metal saw blade while slowly turning the carbon fiber tube.
 #### Step 6: Use the drill bit holder
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-08.jpg" alt="">
+    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-08.jpg" alt="">
         <p class="text-white">
 I have a drill because the hole alignment is really important
 with tubular arms. If the holes are in the middle, your firefly
@@ -144,7 +144,7 @@ its time for assembly. Clean the engine mountings and the hinge very well.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-10.jpg" alt="">
+    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-10.jpg" alt="">
         <p class="text-white">
 First you have to secure the motors on the engine mounts.
 The motor mounts are designed to accept motors with M2 screws.
@@ -174,7 +174,7 @@ arm hinge with the 3mm holes on the other end of the arm.
 #### Step 9: Clip Lock
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-12.jpg" alt="">
+    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-12.jpg" alt="">
         <p class="text-white">
 To finish the arm mechanism, use the 4x M3x10MM in the bumper
 to screw in 4 clip locks at the front. Use another 4x M3x10MM
@@ -194,7 +194,7 @@ corresponding hole on the bottom plate.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-14.jpg" alt="">
+    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-14.jpg" alt="">
         <p class="text-white">
         </p>
 </div>
@@ -213,7 +213,7 @@ self-locking nuts.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-16.jpg" alt="">
+    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-16.jpg" alt="">
         <p class="text-white">
 
         </p>
@@ -229,7 +229,7 @@ self-locking nuts.
 #### Step 12: FINISH IT
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-18.jpg" alt="">
+    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-18.jpg" alt="">
         <p class="text-white">
 Now simply push the bumper balls into the holes provided and install the camera plate.
 You are done. I hope you have a lot of fun with this little quad.
