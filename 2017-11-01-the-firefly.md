@@ -201,29 +201,20 @@ corresponding hole on the bottom plate.
 
 #### Step 11: Secure the arms
 
-<div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-15.jpg" alt="">
-        <p class="text-white">
 To attach the arms, take 4x M3x32MM screws
 and start screwing them into the bottom plate.
 As soon as you reach the top plate. Take the M3
 washers before screwing on the 4x M3
 self-locking nuts.
-        </p>
-</div>
 
-<div class="nk-post-text mt-0">
+<div class="col-lg-4 col-md-4">
+    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-15.jpg" alt="">
+</div>
+<div class="col-lg-4 col-md-4">
     <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-16.jpg" alt="">
-        <p class="text-white">
-
-        </p>
 </div>
-
-<div class="nk-post-text mt-0">
+<div class="col-lg-4 col-md-4">
     <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-17.jpg" alt="">
-        <p class="text-white">
-
-        </p>
 </div>
 
 #### Step 12: FINISH IT
