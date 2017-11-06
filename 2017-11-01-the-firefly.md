@@ -206,7 +206,7 @@ and start screwing them into the bottom plate.
 As soon as you reach the top plate. Take the M3
 washers before screwing on the 4x M3
 self-locking nuts.
-
+<div class="row vertical-gap">
 <div class="col-lg-4 col-md-4">
     <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-15.jpg" alt="">
 </div>
@@ -216,7 +216,7 @@ self-locking nuts.
 <div class="col-lg-4 col-md-4">
     <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-17.jpg" alt="">
 </div>
-
+</div>
 #### Step 12: FINISH IT
 
 <div class="nk-post-text mt-0">
