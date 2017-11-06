@@ -1,0 +1,109 @@
+---
+layout: post
+locale: en
+
+title: Firefly PRO - 3D printed race drone
+
+# All content goes under this category in the URL to
+# reference blog posts or news.
+category: articles
+
+# Tags for printing in the new.
+tags:
+  - DIY
+
+# Where should we display this content
+# Articles will show as a new,
+# but if you want them on the slider
+# add the slider location.
+locations:
+  - slider
+  - post
+
+main_pic: "assets/images_articles/ccamacho/images/firefly-pro-01.jpg"
+
+author: Carlos Camacho
+author_flickr_picid: 36293999592
+
+gitlab_author_id: ccamacho
+
+#####################
+# Only change this
+# to true when ready
+# to be published
+# This must be done
+# only by the global
+# admin
+# Hide this posts
+published: false
+#####################
+
+---
+
+
+
+This is the all new Firefly Pro.
+Its a 250 size quad designed for the racetrack.
+In this stubborn you will find all the information
+necessary to build the frame of the Firefly Pro.
+You can find all the STL files you need for this build on [thingiverse](http://www.thingiverse.com/thing:1163884).
+
+Have fun building and flying the Firefly Pro.
+
+#### Step 1: Hardware
+{:.nk-post-img}
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-02.jpg">
+To build the Firefly Pro, you'll need a few bits and bobs. Take some time to see everything in the picture below, so you can build without hassle.
+
+Some screws are not required in the specified length. Most of them can be a bit longer or even shorter. It's just a guideline so you know where to start.
+
+#### Step 2: Main picture
+{:.nk-post-img}
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-03.jpg">
+For the main frame you have to print the parts shown on the picture.
+
+Print the main frame with 28% fill. The sides and bumpers are best printed with 50% fill.
+
+However, the bumper will be heavily invaded in a crash, so you better print a few spare parts.
+
+#### Step 3: Getting started
+{:.nk-post-img}
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-04.jpg">
+{:.nk-post-img}
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-05.jpg">
+Take the bumper and start screwing in 4 M3x10MM screws. Next, take the two M2x12MM screws and screw them into the two holes at the end. Take the bottom plate and attach it to the bumper.
+
+Insert two more M2x10MM screws into the holes for the sides. Now hold the side against the bottom plate, attach all four M2 screws.
+
+#### Step 4: Add the arms
+{:.nk-post-img}
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-06.jpg">
+To add weapons to the Firefly Pro, we need some more printed parts.
+
+Get everything ready, shown in the picture.
+
+#### Step 5:
+{:.nk-post-img}
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-07.jpg">
+{:.nk-post-img}
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-08.jpg">
+Start by screwing all four ESC brackets to the bottom plates. Take four more M3x10MM and four M3x8MM screws.
+
+Be sure to orient the ESC bracket so that the closed sides of the cable outlet are forward and backward to protect the cables.
+
+#### Step 6: Capping it
+{:.nk-post-img}
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-09.jpg">
+Now attach all four arms to the top plate with four M3x10MM screws and position them on the frame. Align the arms and screw them into the ESC brackets with your arms.
+
+Attach the remaining screws and add the M3x22MM stands with the four M3x6MM screws.
+
+#### Step 7:
+{:.nk-post-img}
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-10.jpg">
+Add the camera plate by inserting the dampers into the plate. That can be quiet.
+
+A good way to put it is to get something like nylon cord, put it through the hole and around the damper. Then gently pull the damp trough while wiggling a bit.
+
+
+
