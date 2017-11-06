@@ -203,13 +203,13 @@ corresponding hole on the bottom plate.
 
 <div class="row vertical-gap">
 <div class="col-lg-4 col-md-4">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-15.jpg" alt="">
+    <img style="height: 155px;" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-15.jpg" alt="">
 </div>
 <div class="col-lg-4 col-md-4">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-16.jpg" alt="">
+    <img style="height: 155px;" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-16.jpg" alt="">
 </div>
 <div class="col-lg-4 col-md-4">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-17.jpg" alt="">
+    <img style="height: 155px;" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-17.jpg" alt="">
 </div>
 </div>
 
