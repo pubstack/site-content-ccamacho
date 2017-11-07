@@ -44,11 +44,10 @@ published: true
 ---
 
 El 1 de agosto, el fabricante de drones DJI presentó
-la inauguración de su primera arena de drones.
+la inauguración de su primera pista cubierta para drones.
 En el DJI Arena, los pilotos de drones 
 pueden ganar experiencia con aviones no tripulados
 y tener un lugar propio de entrenamiento.
-
 
 #### Fly
 
@@ -56,8 +55,8 @@ y tener un lugar propio de entrenamiento.
     <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-02.jpg" alt="">
         <p class="text-white">
 Los pilotos de drones pueden usar la arena por sólo 14
-dólares por 3 horas. Para evitar colisiones, hasta 12
-los pilotos pueden volar al mismo tiempo en la arena.
+dólares cada 3 horas. Para evitar colisiones, hasta 12
+pilotos pueden volar al mismo tiempo en la pista.
         </p>
 </div>
 
@@ -67,10 +66,11 @@ los pilotos pueden volar al mismo tiempo en la arena.
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-03.jpg" alt="">
         <p class="text-white">
-El DJI Arena, está cubierto para que siempre puedan realizarse vuelos.
-Al ser cubierto no se toma en cuenta la legislación vigente para
-vuelos exteriores, junto a la arena hay un taller
-donde los pilotos pueden realizar reparaciones o mantenimiento a los drones.
+El DJI Arena, está cubierto para que siempre se pueda volar.
+Al ser cubierta no se tienen en cuenta las leyes vigentes para
+vuelos exteriores y junto a la pista hay un taller
+donde los pilotos pueden realizar
+reparaciones o mantenimiento a los drones.
         </p>
 </div>
 
@@ -80,7 +80,7 @@ donde los pilotos pueden realizar reparaciones o mantenimiento a los drones.
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-04.jpg" alt="">
         <p class="text-white">
-También es accesible para los espectadores.
+La pista también es accesible para espectadores.
 Se ha creado un espacio especial donde los espectadores
 pueden ver en vivo en televisores LCD la cámara FPV de los drones.
 Además, hay un lugar donde las personas pueden
@@ -98,9 +98,9 @@ aprende más sobre la tecnología utilizada en los drones de carrera.
 La pista está equipada con varios LED iluminados,
 puertas y bloques de partida especiales. A pesar del hecho
 que los drones DJI están hechos principalmente para fotografía y video
-aéreos, el fabricante de drones ahora parece
-centrarse en carreras FPV. Por lo tanto, es obvio que
-el fabricante podría plantear a futuro carreras de FPV.
+aéreos, el fabricante de drones parece
+centrarse en carreras FPV. Por lo tanto, es posible que
+el fabricante pueda plantear a futuro carreras de FPV.
         </p>
 </div>
 

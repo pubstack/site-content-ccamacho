@@ -2,7 +2,7 @@
 layout: post
 locale: en
 
-title: Firefly PRO - 3D printed race drone
+title: Firefly PRO - A 3D printed race drone
 
 # All content goes under this category in the URL to
 # reference blog posts or news.
@@ -35,7 +35,7 @@ gitlab_author_id: ccamacho
 # only by the global
 # admin
 # Hide this posts
-published: false
+published: true
 #####################
 
 ---
@@ -46,29 +46,27 @@ In this stubborn you will find all the information
 necessary to build the frame of the Firefly Pro.
 You can find all the STL files you need for this build on
 [thingiverse](http://www.thingiverse.com/thing:1163884).
-
 Have fun building and flying the Firefly Pro.
 
 #### Step 1: Hardware
 
-<div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-02.jpg" alt="">
-        <p class="text-white">
 To build the Firefly Pro, you'll need a few bits and bobs.
 Take some time to see everything in the picture below,
 so you can build without hassle.
 Some screws are not required in the specified length.
 Most of them can be a bit longer or even shorter.
 It's just a guideline so you know where to start.
-        </p>
-</div>
+
+{:.nk-post-img}
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-02.jpg">
+
 
 #### Step 2: Main picture
 
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-03.jpg" alt="">
         <p class="text-white">
-For the main frame you have to print the parts shown on the picture.
+For the main frame, you have to print the parts shown in the picture.
 Print the main frame with 28% fill. The sides and bumpers are best printed with 50% fill.
 However, the bumper will be heavily invaded in a crash, so you better print a few spare parts.
         </p>
@@ -100,7 +98,7 @@ Now hold the side against the bottom plate, attach all four M2 screws.
         <p class="text-white">
 To add the arms to the Firefly Pro,
 we need some more printed parts.
-Get everything ready, shown in the picture.
+Get everything ready, as shown in the picture.
         </p>
 </div>
 
@@ -139,7 +137,7 @@ with the four M3x6MM screws.
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-10.jpg" alt="">
         <p class="text-white">
-Add the camera plate by inserting the dampers into the plate. That can be quiet.
+Add the camera plate by inserting the dampers into the plate. That can be tricky.
 A good way to put it is to get something like nylon cord, put it
 through the hole and around the damper. Then gently pull the damp trough while wiggling a bit.
         </p>

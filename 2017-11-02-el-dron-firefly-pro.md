@@ -35,115 +35,113 @@ gitlab_author_id: ccamacho
 # only by the global
 # admin
 # Hide this posts
-published: false
+published: true
 #####################
 
 ---
 
-This is the all new Firefly Pro.
-Its a 250 size quad designed for the racetrack.
-In this stubborn you will find all the information
-necessary to build the frame of the Firefly Pro.
-You can find all the STL files you need for this build on
+Este es el nuevo Firefly Pro.
+Es un quad de 250 MM diseñado para carreras de drones.
+En esta guía encontrarás toda la información
+necesaria para construir el chasis del Firefly Pro.
+Puedes encontrar todos los archivos STL que necesitaras para
+imprimir las piezas en
 [thingiverse](http://www.thingiverse.com/thing:1163884).
+Diviértete construyendo y volando el Firefly Pro.
 
-Have fun building and flying the Firefly Pro.
+#### Paso 1: Hardware
 
-#### Step 1: Hardware
+Para construir Firefly Pro, necesitarás algunas piezas y tornillos.
+Tómate tu tiempo para ver todas las piezas necesarias
+en la siguiente imagen,
+para que puedas construirlo sin problemas.
+Algunos tornillos no son necesarios en la longitud especificada.
+La mayoría de ellos puede ser un poco más largos o incluso cortos.
+Esto es solo una guía de referencia para que sepas por donde empezar.
 
-<div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-02.jpg" alt="">
-        <p class="text-white">
-To build the Firefly Pro, you'll need a few bits and bobs.
-Take some time to see everything in the picture below,
-so you can build without hassle.
-Some screws are not required in the specified length.
-Most of them can be a bit longer or even shorter.
-It's just a guideline so you know where to start.
-        </p>
-</div>
+{:.nk-post-img}
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-02.jpg">
 
-#### Step 2: Main picture
+
+#### Paso 2: Vista general
 
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-03.jpg" alt="">
         <p class="text-white">
-For the main frame you have to print the parts shown on the picture.
-Print the main frame with 28% fill. The sides and bumpers are best printed with 50% fill.
-However, the bumper will be heavily invaded in a crash, so you better print a few spare parts.
+Para el chasis principal, debes imprimir las partes que se muestran en la imagen.
+Imprime el chasis principal con un 28% de relleno. Los laterales y parachoques se imprimen mejor con un 50% de relleno.
+Sin embargo, el paragolpes se verá fuertemente afectado en los choques, por lo que es mejor imprimir algunas piezas de repuesto.
         </p>
 </div>
 
-#### Step 3: Getting started
+#### Paso 3: Comenzando
 
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-04.jpg" alt="">
         <p class="text-white">
-Take the bumper and start screwing in 4 M3x10MM screws.
-Next, take the two M2x12MM screws and screw them into
-the two holes at the end. Take the bottom plate and attach it to the bumper.
+Tome el parachoques y comience a atornillar los 4 tornillos M3x10MM.
+A continuación, tome los dos tornillos M2x12MM y atorníllelos en
+los dos agujeros que se encuentran al final. Tome la placa inferior del chasis y conéctela al paragolpes.
         </p>
 </div>
 
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-05.jpg" alt="">
         <p class="text-white">
-Insert two more M2x10MM screws into the holes for the sides.
-Now hold the side against the bottom plate, attach all four M2 screws.
+Inserte dos tornillos M2x10MM más, en los orificios de los lados.
+Ahora sostenga el lado contra la placa inferior del chasis y coloque los cuatro tornillos M2.
         </p>
 </div>
 
-#### Step 4: Add the arms
+#### Paso 4: Agregar los brazos
 
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-06.jpg" alt="">
         <p class="text-white">
-To add the arms to the Firefly Pro,
-we need some more printed parts.
-Get everything ready, shown in the picture.
+Para agregar los brazos al Firefly Pro,
+son necesarias algunas partes impresas adicionales.
+Prepara e imprime las piezas restantes, como se muestra en la imagen.
         </p>
 </div>
 
-#### Step 5:
+#### Paso 5: Colocando soporte del motor y ESC
 
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-07.jpg" alt="">
         <p class="text-white">
-Start by screwing all four ESC brackets to the bottom plates. Take four more M3x10MM and four M3x8MM screws.
+Comience atornillando los cuatro soportes de los ESC a las placas inferiores del chasis. Tome cuatro tornillos M3x10MM y cuatro tornillos M3x8MM adicionales.
         </p>
 </div>
 
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-08.jpg" alt="">
         <p class="text-white">
-Be sure to orient the ESC bracket so that the closed sides of the cable outlet are forward and backward to protect the cables.
+Asegúrese de orientar el soporte de los ESC para que los lados de la salida del cable permitan que estos queden protegidos contra
+golpes.
         </p>
 </div>
 
-#### Step 6: Capping it
+#### Paso 6: Ajustando los brazos al chasis
 
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-09.jpg" alt="">
         <p class="text-white">
-Now attach all four arms to the top plate with four M3x10MM
-screws and position them on the frame. Align the arms and
-screw them into the ESC brackets with your arms.
-
-Attach the remaining screws and add the M3x22MM stands
-with the four M3x6MM screws.
+Ahora conecte los cuatro brazos a la placa superior del chasis con cuatro tornillos M3x10MM.
+Alinee los brazos y atorníllelos en los soportes de los ESC con su respectivo brazo.
+Coloque los tornillos restantes y agregue los soportes M3x22MM con los cuatro tornillos M3x6MM.
         </p>
 </div>
 
-#### Step 7:
+#### Paso 7: Instalando la placa para la cámara
 
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-10.jpg" alt="">
         <p class="text-white">
-Add the camera plate by inserting the dampers into the plate. That can be quiet.
-A good way to put it is to get something like nylon cord, put it
-through the hole and around the damper. Then gently pull the damp trough while wiggling a bit.
+Agregue la placa de la cámara insertando los amortiguadores en la placa del chasis. Esto puede ser un poco complicado.
+Una buena manera de hacerlo es utilizando un poco de hilo de nylon, pasándolo 
+a través del agujero y alrededor del amortiguador. Luego, tira suavemente del hilo hasta que la goma pasa a traves del hueco y la
+base queda colocada correctamente.
         </p>
 </div>
-
 
 

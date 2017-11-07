@@ -35,7 +35,7 @@ gitlab_author_id: ccamacho
 # only by the global
 # admin
 # Hide this posts
-published: false
+published: true
 #####################
 
 ---
@@ -154,7 +154,7 @@ motor cables are facing the right side.
         </p>
 </div>
 
-#### Step 8:
+#### Step 8: Adjusting the arms
 
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-11.jpg" alt="">
@@ -182,7 +182,7 @@ in the back to do the same thing.
         </p>
 </div>
 
-#### Step 10:
+#### Step 10: Arms location
 
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-13.jpg" alt="">

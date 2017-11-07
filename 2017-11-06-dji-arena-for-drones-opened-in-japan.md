@@ -43,13 +43,13 @@ published: true
 
 ---
 
-DJI have opened their first DJI Arena in Tokyo on Saturday, October 21, 2017.
+DJI opened their first DJI Arena in Tokyo on Saturday, October 21, 2017.
 
 
 #### Tokyo
 
-The 535 square meter arena will not only be a part to fly, but
-also houses a store and technical support. The DJI Arena in Tokyo
+The 535 square meter arena will not only be to fly, but
+also have a store and technical support. The DJI Arena in Tokyo
 is managed and operated by the authorized dealer Japan Circuit in
 collaboration with DJI Japan.
 
@@ -62,11 +62,11 @@ collaboration with DJI Japan.
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-japan-03.jpg" alt="">
         <p class="text-white">
-The fly arena is equipped with safety
+The fly arena is equipped with a safety
 net and a customizable circuit for those
 who want to test their flying skills. In
 the retail space, DJI presents its full
-range of consumer and professional products.
+catalog of consumer and professional products.
         </p>
 </div>
 
@@ -80,11 +80,11 @@ range of consumer and professional products.
 the DJI Arena concept is a new way of engaging not only hobbyists,
 but also those who consider this technology for their work or just
 for the excitement of flying," said Moon Tae-Hyun, DJI's Director
-of Brand Management and Operations. "With the ability to crawl the
-remote control itself and try out the technology itself, customer
+of Brand Management and Operations. "With the ability to feel the
+remote control and try out the technology itself, customer
 satisfaction can be enhanced. When people understand how it works
 or how easy it is to fly, they will discover what this technology
-can do for them. and see a whole new world of possibilities."
+can do for them and see a whole new world of possibilities."
         </p>
 </div>
 The DJI Arena is open for individual and group bookings,
