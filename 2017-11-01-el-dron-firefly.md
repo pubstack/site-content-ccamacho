@@ -206,6 +206,9 @@ agujero correspondiente al chasis.
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-14.jpg" alt="">
         <p class="text-white">
+Luego, coloca la placa superior del chasis para agregar los tornillos restantes, es importante que cada tornillo ajuste
+suavemente. Después de que la placa y todos los tornillos restantes estén en su lugar, puedes continuar asegurando y apretando los brazos
+del dron.
         </p>
 </div>
 

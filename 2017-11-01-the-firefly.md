@@ -196,6 +196,8 @@ corresponding hole on the bottom plate.
 <div class="nk-post-text mt-0">
     <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-14.jpg" alt="">
         <p class="text-white">
+Then, add the upper chassis plate to add the pending screws, its important that each screw must fit
+smoothly, after the plate and all the remaining screws are in place you can continue to secure and tight the arms.
         </p>
 </div>
 
