@@ -44,6 +44,7 @@ Este es el nuevo Firefly Pro.
 Es un quad de 250 MM diseñado para carreras de drones.
 En esta guía encontrarás toda la información
 necesaria para construir el chasis del Firefly Pro.
+
 Puedes encontrar todos los archivos STL que necesitaras para
 imprimir las piezas en
 [thingiverse](http://www.thingiverse.com/thing:1163884).
