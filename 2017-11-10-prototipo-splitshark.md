@@ -28,6 +28,7 @@ author_flickr_picid: 36293999592
 
 gitlab_author_id: ccamacho
 
+sticky: true
 #####################
 # Only change this
 # to true when ready
@@ -41,6 +42,13 @@ published: true
 
 ---
 
+Presentamos un dron de 150mm
+con hélices de 3 pulgadas.
+Es un pequeño dron de
+carreras basado en un chasis
+de la marca Splitshard
+junto a un sistema de FPV
+con la cámara RunCam Plit 2.
 
 {:.text-main-1}
 #### Lista de partes
@@ -61,22 +69,22 @@ published: true
 
 <div class="row vertical-gap">
 <div class="col-lg-4 col-md-4">
-    <img style="height: 155px;" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/proto-splitshark-00.jpg" alt="">
+    <img style="width:100%;" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/proto-splitshark-00.jpg" alt="">
 </div>
 <div class="col-lg-4 col-md-4">
-    <img style="height: 155px;" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/proto-splitshark-01.jpg" alt="">
+    <img style="width:100%;" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/proto-splitshark-01.jpg" alt="">
 </div>
 <div class="col-lg-4 col-md-4">
-    <img style="height: 155px;" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/proto-splitshark-02.jpg" alt="">
+    <img style="width:100%;" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/proto-splitshark-02.jpg" alt="">
 </div>
 <div class="col-lg-4 col-md-4">
-    <img style="height: 155px;" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/proto-splitshark-03.jpg" alt="">
+    <img style="width:100%;" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/proto-splitshark-03.jpg" alt="">
 </div>
 <div class="col-lg-4 col-md-4">
-    <img style="height: 155px;" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/proto-splitshark-04.jpg" alt="">
+    <img style="width:100%;" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/proto-splitshark-04.jpg" alt="">
 </div>
 <div class="col-lg-4 col-md-4">
-    <img style="height: 155px;" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/proto-splitshark-05.jpg" alt="">
+    <img style="width:100%;" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/proto-splitshark-05.jpg" alt="">
 </div>
 </div>
 
