@@ -12,6 +12,7 @@ category: articles
 tags:
   - DIY
   - Prototypes
+  - Sticky
 
 # Where should we display this content
 # Articles will show as a new,
