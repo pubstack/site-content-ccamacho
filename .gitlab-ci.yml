@@ -29,6 +29,7 @@ sync_site:
     - cd temp
     - git clone --recursive git@gitlab.com:formulad/site-content.git
     - cd ./site-content
+    - git submodule update --init --recursive
     - git submodule update --recursive --remote
     - cd ./_posts/$FORMULAD_USER
     - git checkout master && git pull
@@ -46,6 +47,7 @@ build_draft:
     - cd site-theme
     # Clone the submodule content
     - git submodule update --init --recursive
+    - git submodule update --recursive --remote
     # Install dependencies
     - gem install jekyll -v 3.6.0
     - gem install flickraw
