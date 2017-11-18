@@ -52,6 +52,9 @@ build_draft:
     - gem install rqrcode_png
     - gem install yt
     - gem install jekyll-paginate-v2
+    - gem install highscore
+    - gem install bloomfilter-rb
+    - gem install stemmer
     # Build the site
     - ./scripts/build_site.sh include-drafts
     # Install Java deps for s3_website
