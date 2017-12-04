@@ -11,6 +11,7 @@ category: articles
 # Tags for printing in the new.
 tags:
   - DIY
+  - Unboxing
 
 # Where should we display this content
 # Articles will show as a new,
