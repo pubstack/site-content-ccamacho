@@ -2,7 +2,7 @@
 layout: post
 locale: en
 
-title: How to charge a LiPo battery in a safe and efficient manner
+title: Charging Li-Po batteries safe and efficiently
 
 # All content goes under this category in the URL to
 # reference blog posts or news.
@@ -38,7 +38,7 @@ gitlab_author_id: ccamacho
 # only by the global
 # admin
 # Hide this posts
-published: false
+published: true
 #####################
 
 ---
@@ -125,7 +125,7 @@ should only follow these few steps:
 
 * Then connect the two cables, both the balancing one and charging one to the 
 LiPo battery, once you have done that, press the button that 
-says <strong>BATT.TYPE</strong> until the charger screen shows you the 
+says **BATT.TYPE** until the charger screen shows you the 
 following message:
 
 <center><strong>PROGRAM SELECT</strong></center>
@@ -133,7 +133,7 @@ following message:
 
 * Once you read the previous text, you must press the <strong>START</strong>
 button and then you must press the status controls that are the ones that say
-<strong>DESC.</strong> or <strong>INC.</strong> until the screen shows the 
+**DESC.** or <strong>INC.</strong> until the screen shows the 
 data of the last recharge that was made to the battery. These data are shown
 as follows:
 

@@ -2,7 +2,7 @@
 layout: post
 locale: es
 
-title: Cómo usar y cuidar nuestras baterías LiPo responsablemente
+title: Usos y cuidados para baterías Li-Po
 
 # All content goes under this category in the URL to
 # reference blog posts or news.
@@ -38,7 +38,7 @@ gitlab_author_id: ccamacho
 # only by the global
 # admin
 # Hide this posts
-published: false
+published: true
 #####################
 
 ---
