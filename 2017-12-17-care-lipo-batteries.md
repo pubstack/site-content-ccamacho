@@ -2,7 +2,7 @@
 layout: post
 locale: en
 
-title: Care andd usage of Li-Po batteries
+title: Care and usage of Li-Po batteries
 
 # All content goes under this category in the URL to
 # reference blog posts or news.
