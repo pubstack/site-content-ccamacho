@@ -51,6 +51,14 @@ El calentamiento es irregular y en algunos casos la base no es completamente pla
 Por eso hemos decidido utilizar una cama caliente de considerable mejor calidad, con la
 desventaja que hemos perdido algunos centímetros del área de impresión.
 
+Comenzaremos este artículo con el siguiente disclaimer:
+"Todo lo descrito aquí, es para propósitos informativos.
+El autor no es ni se hará  responsable de cualquier accidente, error, daño, uso,
+mal uso de la información presentada."
+La persona que use esta información, es bajo su propio riesgo,
+y asumirá cualquier consecuencia";
+"El autor no es responsable del uso ilegal de esta información";
+"Cualquier copyright, o propiedad intelectual es propiedad de su propietario".
 
 ### Lista de materiales
 
