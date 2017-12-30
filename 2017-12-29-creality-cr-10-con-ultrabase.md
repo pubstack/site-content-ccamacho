@@ -114,6 +114,7 @@ problemas de voltaje.
 </div>
 
 <br/>
+
 {:.nk-post-img}
 <img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_022.jpg">
 
@@ -138,6 +139,7 @@ de estos tornillos.
 </div>
 
 <br/>
+
 {:.nk-post-img}
 <img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_033.jpg">
 
@@ -159,6 +161,7 @@ debemos dejarlos todos del mismo lado.
 La arandela convexa nos permitira eliminar el desnivel causado por el corte del muelle.
 </p>
 </div>
+
 
 {:.nk-post-img}
 <img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_044.jpg">
