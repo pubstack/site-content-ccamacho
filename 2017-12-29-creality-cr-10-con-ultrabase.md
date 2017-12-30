@@ -176,7 +176,7 @@ bien a las dimenciones de los huecos originales.
 Aquí podremos ver una vista inferior sobre como queda la base ya instalada correctamente.
 
 {:.nk-post-img}
-<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_06.jpg">
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_066.jpg">
 
 En caso de utilizar como base del proyecto una CR-10 de medidas estandar (30cmx30cm) hay disponible una Ultrabase con esas dimensiones, con lo que
 habría que ver la cama caliente que mejor se adapte, en este caso la Keenovo de 30cmx30cm sería un acierto.
