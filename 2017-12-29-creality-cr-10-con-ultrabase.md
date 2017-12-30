@@ -113,7 +113,7 @@ problemas de voltaje.
 </p>
 </div>
 
-
+<br/>
 {:.nk-post-img}
 <img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_022.jpg">
 
@@ -137,6 +137,7 @@ de estos tornillos.
 </p>
 </div>
 
+<br/>
 {:.nk-post-img}
 <img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_033.jpg">
 
