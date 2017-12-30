@@ -61,6 +61,18 @@ La lista de compras que necesitaremos antes de llevar a cabo
 este tutorial DIY estará compuesta principalmente por tornillos,
 muelles, arandelas, tuercas y conectores de energía para nuestra cama caliente.
 </p>
+
+<p>
+Todos los materiales para este tutorial pueden
+ser encontrados facilmente en tiendas no especializadas.
+En nuestro caso y para España hemos conseguido los materiales en
+las siguientes grandes superficies, los muelles y arandelas cóncavas las hemos conseguido en el
+Leroy Merlin, la tornillería (tornillos M4, tuercas autoblocantes, mariposas, arandelas en general)
+podemos conseguirla a un buen precio en el Bricomart, el conector de 6 pines
+lo hemos conseguido en Conectrol (Madrid) pero hemos pedido cualquier conector de 6 pines
+disponible on lo cual podríamos utilizar cualquier otro.
+</p>
+
 </div>
 
 Necesitaremos:
@@ -93,27 +105,54 @@ problemas de voltaje.
 </p>
 </div>
 
+
+{:.nk-post-img}
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_022.jpg">
+
+Podemos ver distintas vistas del conector de 6 pines, en este caso el conector que sale de la unidad de control
+de la CR-10 Mini salen 6 cables (Imágen derecha) y a la cama caliente solo van 4 (Imágen imágen derecha y centro).
+La conección del sensor térmico no tiene polaridad, sin embargo para la cama caliente 
+deberemos respetar la polaridad (no es necesario) por convención del cableado.
+
 <div class="nk-post-text mt-0">
     <img style="height: 255px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_03.jpg" alt="">
         <p class="text-white">
 Seguidamente atornillaremos como puede verse en la imagen, las uniones de 4 huecos, los tornillos M4, las tuercas autoblocantes M4, y los tornillos originales
 de la Anycubic Ultrabase. El resultado final puede verse en la imagen a la izquierda.
 </p>
-
-        <p class="text-white">
+<p class="text-white">
 Es importante destacar que la orientación de las placas conectoras debe seguir la orientación que se ve en la imágen, de lo contrario no
-coincidiran con los huecos de la base de la CR-10 Mini. Es algo bueno ya que tendremos dos huecos disponibles en la parte posterior de la cama caliente para adaptar quizá
-un juego de luces LED.
+coincidiran con los huecos de la base de la CR-10 Mini. Es algo bueno ya que tendremos dos huecos disponibles en la parte trasera de la cama caliente para adaptar quizá
+un juego de luces LED o algún otro accesorio como por ejemplo una webcam
+que queramos adaptar en esa parte. En futuros artículos adaptaremos un protector para el cable de la cama caliente a uno
+de estos tornillos.
 </p>
-
 </div>
 
+{:.nk-post-img}
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_033.jpg">
+
+Podémos ver 3 vistas do cómo ensablar la unión en la cama caliente, en este
+caso el tornillo original de la Anycubic Ultrabase lo hemos recortado para que no moleste.
+ 
 <div class="nk-post-text mt-0">
     <img style="height: 255px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_04.jpg" alt="">
         <p class="text-white">
 Una vez atornillada la base procederemos a presentar los muelles junto a la arandela convexa.
 </p>
+<p class="text-white">
+En este caso debemos
+instalar todos los muelles en el mismo sentido, al cortar el muelle podremos ver que hay un lado nivelado y otro no,
+debemos dejarlos todos del mismo lado.
+</p>
+
+        <p class="text-white">
+La arandela convexa nos permitira eliminar el desnivel causado por el corte del muelle.
+</p>
 </div>
+
+{:.nk-post-img}
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_044.jpg">
 
 <div class="nk-post-text mt-0">
     <img style="height: 255px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_05.jpg" alt="">
@@ -123,21 +162,15 @@ En este caso la cinta que utilizamos soporta hasta 120 grados centígrados y es 
 </p>
 </div>
 
-<div class="nk-post-text mt-0">
-    <img style="height: 255px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_06.jpg" alt="">
-        <p class="text-white">
 Procederemos a presentar la cama caliente con los soportes atornillados y asegurados para un último ajuste y podrémos ver que ajusta bastante
 bien a las dimenciones de los huecos originales.
-</p>
-</div>
 
-<div class="nk-post-text mt-0">
-    <img style="height: 255px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_07.jpg" alt="">
-        <p class="text-white">
-Aquí podremos ver una imagen inferior sobre como queda la base ya instalada correctamente.
-</p>
-</div>
+Aquí podremos ver una vista inferior sobre como queda la base ya instalada correctamente.
+
+{:.nk-post-img}
+<img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_06.jpg">
 
 En caso de utilizar como base del proyecto una CR-10 de medidas estandar (30cmx30cm) hay disponible una Ultrabase con esas dimensiones, con lo que
 habría que ver la cama caliente que mejor se adapte, en este caso la Keenovo de 30cmx30cm sería un acierto.
+
 
