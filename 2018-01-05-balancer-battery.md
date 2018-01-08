@@ -2,7 +2,7 @@
 layout: post
 locale: en
 
-title: Charging Li-Po batteries safe and efficiently
+title: Charging Li-Po batteries safely and efficiently
 
 # All content goes under this category in the URL to
 # reference blog posts or news.
