@@ -12,7 +12,7 @@ category: articles
 tags:
 #  - News
    - DIY
-#  - Prototypes
+   - Prototypes
    - Guides
 
 # Where should we display this content
@@ -20,7 +20,7 @@ tags:
 # but if you want them on the slider
 # add the slider location.
 locations:
-# - slider
+  - slider
   - post
 
 main_pic: "assets/images_articles/ccamacho/images/cr-10_ultrabase_00.jpg"
@@ -38,7 +38,7 @@ gitlab_author_id: ccamacho
 # only by the global
 # admin
 # Hide this posts
-published: false
+published: true
 #####################
 
 ---
