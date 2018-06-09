@@ -100,7 +100,7 @@ recabar 80.000 USD para incluir en los pack un batería extra y unas gafas de
 realidad aumentada, sin necesidad de variar el costo de su producto.
 
 <div class="nk-post-text mt-0">
-    <img style="height: 200px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/drone-racing.jpg" alt="">
+    <img style="height: 200px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/drone-racing.jpg" alt="">
         <p class="text-white">
 Hoy en día, ya se encuentra disponible en el mercado y no solo esto, sino que 
 también se llevó acabo la primera gran competencia de esta marca y fue todo un 

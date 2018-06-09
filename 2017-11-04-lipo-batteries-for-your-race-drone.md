@@ -128,7 +128,7 @@ stacked up together is usually referenced as
 an "S" in any battery model.
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/LiPo-cells.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/LiPo-cells.jpg" alt="">
         <p class="text-white">
 An S1 battery has only a 3.7 V cell, whereas an S3 has 3 cell of 3.7 V each, and therefore
 it's real voltage is 11.1 V, in other words, 3.7 V x 3 cells. This feature is important
@@ -143,7 +143,7 @@ capacity that a battery has, so the bigger this number is, the longer your
 drone will fly. But generally, the batteries with great storage capacity
 are bigger, heavier and much more expensive than the rest. 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/LiPo-batteries.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/LiPo-batteries.jpg" alt="">
         <p class="text-white">
 It is advisable to drone competitors to look for one
 that doesn't hold back your drone by adding weight and
@@ -158,7 +158,7 @@ components of the drone. The nomenclature that identifies this characteristic is
 number followed by a letter "C".
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/LiPo-c-rate.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/LiPo-c-rate.jpg" alt="">
         <p class="text-white">
 A 25C means that we need to multiply 25 by the battery capacity in Amps to get the
 maximum sustained load you can safely put on the battery.

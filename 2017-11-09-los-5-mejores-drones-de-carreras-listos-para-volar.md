@@ -77,7 +77,7 @@ volar que se lanzó al mercado y aún hoy en día, es de los que
 poseen las mejores prestaciones y relación calidad precio.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-        <img style="width: 400px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-01-walkera-runner-250.jpg" alt="">
+        <img style="width: 400px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-01-walkera-runner-250.jpg" alt="">
         <p class="text-white">
     Se trata de un dron que viene con todo incluido, hablamos de un
     chasis de excelente calidad en fibra de carbono, motores, hélices,
@@ -92,7 +92,7 @@ de los pocos que nos garantiza un nivel de agilidad óptimo
 para nuestras horas de vuelo.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-        <img style="width: 300px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-02-nighthawk-pro-280.jpg" alt="">
+        <img style="width: 300px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-02-nighthawk-pro-280.jpg" alt="">
     <p class="text-white">
     Su estructura en
     fibra de carbono y sus potentes motores de 1300 KV,
@@ -114,7 +114,7 @@ integrarle una cámara GoPro o cualquier otra cámara
 deportiva.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-        <img style="width: 400px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-03-immersion-rc-vortex-250-pro.jpg" alt="">
+        <img style="width: 400px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-03-immersion-rc-vortex-250-pro.jpg" alt="">
     <p class="text-white">
     Su precio es superior al de los modelos anteriores
     pero sin duda vale la pena. Lo único que deberás
@@ -129,7 +129,7 @@ integra nuestra lista, pero paradójicamente también
 resulta ser uno de los más completos y potentes.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-        <img style="width: 300px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-04-eachine-falcon-250.jpg" alt="">
+        <img style="width: 300px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-04-eachine-falcon-250.jpg" alt="">
     <p class="text-white">
     Creado por la empresa Eachine, este dron cuenta
     con chasis de carbono, motores potentes de 2300 KV con
@@ -149,7 +149,7 @@ puede personalizar; ya que se trata de un chasis en fibra de
 vidrio que puede ser diseñado por una impresora 3D.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-        <img style="width: 400px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-05-tilt-drone-x8.jpg" alt="">
+        <img style="width: 400px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-05-tilt-drone-x8.jpg" alt="">
     <p class="text-white">
     Este modelo
     es capaz de alcanzar una velocidad de 100 KM/HR en tan solo 4 segundos

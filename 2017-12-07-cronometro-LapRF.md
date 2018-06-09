@@ -95,7 +95,7 @@ intensidad de la señal de video.
 En cuanto a las especificaciones tenemos lo siguiente:
 
 <div class="nk-post-text mt-0">
-    <img style="height: 255px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/laprf6.jpg" alt="">
+    <img style="height: 255px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/laprf6.jpg" alt="">
         <p class="text-white">
 <strong>Batería integrada 2600mAh:</strong> Tiene una batería recargable incorporada
 la cual puede ser cargada mediante un puerto USB. 
@@ -104,7 +104,7 @@ la cual puede ser cargada mediante un puerto USB.
 
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/laprf2.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/laprf2.jpg" alt="">
         <p class="text-white">
 <strong>Receptores personalizados:</strong> El equipo de ImmersionRC diseñó
 un módulo receptor personalizado que se adapta a los

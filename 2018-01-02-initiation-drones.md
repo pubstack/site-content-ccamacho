@@ -92,7 +92,7 @@ drones that fulfill these three criteria, we recommend the
 following models:
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/syma_01.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/syma_01.jpg" alt="">
         <p class="text-white">
 <strong>Syma X5C:</strong> This is the initiation drone by excellence, so much so
 that is the best selling model on Amazon. It has a 2
@@ -104,7 +104,7 @@ with few flight hours.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/syma_02.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/syma_02.jpg" alt="">
         <p class="text-white">
 <strong>Syma X5HC:</strong> A model with more advanced features than the previous
 one, for instance, it has an altitude leveling system that allows
@@ -114,7 +114,7 @@ without the need to maintain pressure over the joystick lever.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/syma_03.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/syma_03.jpg" alt="">
         <p class="text-white">
 <strong>Syma X5UC:</strong> Last but not least, we have a model for those who want to
 live the experience of flying a drone in failsafe mode, since this

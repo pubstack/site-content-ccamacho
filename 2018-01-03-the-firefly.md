@@ -51,7 +51,7 @@ I hope you enjoy it as much as I build and fly.
 #### Step 1: A WHOLE PILE OF SCREWS
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-02.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-02.jpg" alt="">
         <p class="text-white">
 For the construction you need a whole set of screws.
 Look at the picture for all the details. You also need
@@ -65,7 +65,7 @@ depending on the weight of your camera.
 #### Step 2: MAIN FRAME
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-03.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-03.jpg" alt="">
         <p class="text-white">
 For the main frame you have to print the parts below.
 Print the main frame with 25% fill. The sides
@@ -78,7 +78,7 @@ so you better print a few spare parts.
 #### Step 3: Start the build
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-04.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-04.jpg" alt="">
         <p class="text-white">
 Use 4x M3x10MM to secure the bumper together with the bottom plate.
 The next step is to fix both sides with 4x M2x10MM screws each.
@@ -88,7 +88,7 @@ The next step is to fix both sides with 4x M2x10MM screws each.
 #### Step 4: The arms
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-05.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-05.jpg" alt="">
         <p class="text-white">
 The next point on our list is the poor. You must print all parts to start.
 And you also need at least a 400mm long carbon fiber tube with an outer diameter of 12mm.
@@ -99,7 +99,7 @@ And you also need at least a 400mm long carbon fiber tube with an outer diameter
 #### Step 5: Cutting the carbon fiber
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-06.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-06.jpg" alt="">
         <p class="text-white">
 To make sure the motor mount and the arm itself sits cuddly
 in place are not jiggling arround or twisting we need to drill
@@ -108,7 +108,7 @@ a few holes in the carbon fiber arm.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-07.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-07.jpg" alt="">
         <p class="text-white">
 Therefore, we cut the carbon
 fiber tube to a length of 100mm. You can scratch the carbon fiber
@@ -120,7 +120,7 @@ fine metal saw blade while slowly turning the carbon fiber tube.
 #### Step 6: Use the drill bit holder
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-08.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-08.jpg" alt="">
         <p class="text-white">
 I have a drill because the hole alignment is really important
 with tubular arms. If the holes are in the middle, your firefly
@@ -137,7 +137,7 @@ If you take the devices to twist them while pulling.
 #### Step 7: Arm Buildup
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-09.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-09.jpg" alt="">
         <p class="text-white">
 Now that you have prepared the carbon fiber tubes,
 its time for assembly. Clean the engine mountings and the hinge very well.
@@ -145,7 +145,7 @@ its time for assembly. Clean the engine mountings and the hinge very well.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-10.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-10.jpg" alt="">
         <p class="text-white">
 First you have to secure the motors on the engine mounts.
 The motor mounts are designed to accept motors with M2 screws.
@@ -158,7 +158,7 @@ motor cables are facing the right side.
 #### Step 8: Adjusting the arms
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-11.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-11.jpg" alt="">
         <p class="text-white">
 The next step is to add the motor body floor.
 Press the motor mount with the motor onto the
@@ -175,7 +175,7 @@ arm hinge with the 3mm holes on the other end of the arm.
 #### Step 9: Clip Lock
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-12.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-12.jpg" alt="">
         <p class="text-white">
 To finish the arm mechanism, use the 4x M3x10MM in the bumper
 to screw in 4 clip locks at the front. Use another 4x M3x10MM
@@ -186,7 +186,7 @@ in the back to do the same thing.
 #### Step 10: Arms location
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-13.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-13.jpg" alt="">
         <p class="text-white">
 Now just put the arms in place and make sure that
 the hole for the joint is aligned with the
@@ -195,7 +195,7 @@ corresponding hole on the bottom plate.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-14.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-14.jpg" alt="">
         <p class="text-white">
 Then, add the upper chassis plate to add the pending screws, its important that each screw must fit
 smoothly, after the plate and all the remaining screws are in place you can continue to secure and tight the arms.
@@ -225,7 +225,7 @@ self-locking nuts.
 #### Step 12: FINISH IT
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-18.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-18.jpg" alt="">
         <p class="text-white">
 Now simply push the bumper balls into the holes provided and install the camera plate.
 You are done. I hope you have a lot of fun with this little quad.

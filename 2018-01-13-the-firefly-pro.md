@@ -65,7 +65,7 @@ It's just a guideline so you know where to start.
 #### Step 2: Main picture
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-03.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-03.jpg" alt="">
         <p class="text-white">
 For the main frame, you have to print the parts shown in the picture.
 Print the main frame with 28% fill. The sides and bumpers are best printed with 50% fill.
@@ -76,7 +76,7 @@ However, the bumper will be heavily invaded in a crash, so you better print a fe
 #### Step 3: Getting started
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-04.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-04.jpg" alt="">
         <p class="text-white">
 Take the bumper and start screwing in 4 M3x10MM screws.
 Next, take the two M2x12MM screws and screw them into
@@ -85,7 +85,7 @@ the two holes at the end. Take the bottom plate and attach it to the bumper.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-05.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-05.jpg" alt="">
         <p class="text-white">
 Insert two more M2x10MM screws into the holes for the sides.
 Now hold the side against the bottom plate, attach all four M2 screws.
@@ -95,7 +95,7 @@ Now hold the side against the bottom plate, attach all four M2 screws.
 #### Step 4: Add the arms
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-06.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-06.jpg" alt="">
         <p class="text-white">
 To add the arms to the Firefly Pro,
 we need some more printed parts.
@@ -106,14 +106,14 @@ Get everything ready, as shown in the picture.
 #### Step 5:
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-07.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-07.jpg" alt="">
         <p class="text-white">
 Start by screwing all four ESC brackets to the bottom plates. Take four more M3x10MM and four M3x8MM screws.
         </p>
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-08.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-08.jpg" alt="">
         <p class="text-white">
 Be sure to orient the ESC bracket so that the closed sides of the cable outlet are forward and backward to protect the cables.
         </p>
@@ -122,7 +122,7 @@ Be sure to orient the ESC bracket so that the closed sides of the cable outlet a
 #### Step 6: Capping it
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-09.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-09.jpg" alt="">
         <p class="text-white">
 Now attach all four arms to the top plate with four M3x10MM
 screws and position them on the frame. Align the arms and
@@ -136,7 +136,7 @@ with the four M3x6MM screws.
 #### Step 7:
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-10.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-pro-10.jpg" alt="">
         <p class="text-white">
 Add the camera plate by inserting the dampers into the plate. That can be tricky.
 A good way to put it is to get something like nylon cord, put it

@@ -77,7 +77,7 @@ their pilot skills. However, it would not be until
 known as the XDC Racing.
 
 <div class="nk-post-text mt-0">
-    <img style="height: 200px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/XDC-04.jpg" alt="">
+    <img style="height: 200px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/XDC-04.jpg" alt="">
         <p class="text-white">
 It was around January of 2015 that a group of drone
 pilots decided to create one of the most famous drone

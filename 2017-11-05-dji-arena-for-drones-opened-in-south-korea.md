@@ -54,7 +54,7 @@ beautiful track.
 #### Fly
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-02.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-02.jpg" alt="">
         <p class="text-white">
 Dronepilots can use the arena for no more than 14
 dollars each 3 hours. To avoid collisions, up to 12
@@ -66,7 +66,7 @@ pilots can fly at the same time.
 #### Arena
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-03.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-03.jpg" alt="">
         <p class="text-white">
 The DJI Arena is indoor so that you can always fly.
 Does not have to take into account the rules for
@@ -79,7 +79,7 @@ where the pilots can perform small maintenance on their drone.
 #### Spectators
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-04.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-04.jpg" alt="">
         <p class="text-white">
 The DJI Arena is also accessible to spectators.
 A special space has been created where spectators
@@ -94,7 +94,7 @@ learn more about the drone technology.
 #### FPV Racing
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-05.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-05.jpg" alt="">
         <p class="text-white">
 The track is equipped with various LED illuminated
 gates and special starting blocks. Despite the fact

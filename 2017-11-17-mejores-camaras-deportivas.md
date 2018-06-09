@@ -99,7 +99,7 @@ de dinero para conseguir los objetivos que tanto queremos. Así que aquí están
 las 3 cámaras deportivas que te recomendamos:
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/eypro-1.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/eypro-1.jpg" alt="">
         <p class="text-white">
 <strong>Eypro 1: </strong> Una cámara que es toda una pequeña guerrera. 
 Resistente al agua, a ráfagas de viento y polvo. 
@@ -111,7 +111,7 @@ a tu smarphone o tablet.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/yi-action.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/yi-action.jpg" alt="">
         <p class="text-white">
 <strong>Yi Action:</strong> Aunque estamos hablando de un modelo algo viejo, 
 está cámara sigue siendo una de las mejores opciones para drones de todo tipo;
@@ -123,7 +123,7 @@ hasta 100 metros de distancia.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-6s.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-6s.jpg" alt="">
         <p class="text-white">
 <strong>Firefly 6S:</strong> Se trata de la cámara deportiva de mayor 
 resolución de nuestra lista y una de las pocas que se puede utilizar dentro 

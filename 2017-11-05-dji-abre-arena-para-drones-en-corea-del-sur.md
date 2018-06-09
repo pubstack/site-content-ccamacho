@@ -52,7 +52,7 @@ y tener un lugar propio de entrenamiento.
 #### Fly
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-02.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-02.jpg" alt="">
         <p class="text-white">
 Los pilotos de drones pueden usar la arena por sólo 14
 dólares cada 3 horas. Para evitar colisiones, hasta 12
@@ -64,7 +64,7 @@ pilotos pueden volar al mismo tiempo en la pista.
 #### Arena
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-03.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-03.jpg" alt="">
         <p class="text-white">
 El DJI Arena, está cubierto para que siempre se pueda volar.
 Al ser cubierta no se tienen en cuenta las leyes vigentes para
@@ -78,7 +78,7 @@ reparaciones o mantenimiento a los drones.
 #### Spectators
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-04.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-04.jpg" alt="">
         <p class="text-white">
 La pista también es accesible para espectadores.
 Se ha creado un espacio especial donde los espectadores
@@ -93,7 +93,7 @@ aprende más sobre la tecnología utilizada en los drones de carrera.
 #### FPV Racing
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-05.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-05.jpg" alt="">
         <p class="text-white">
 La pista está equipada con varios LED iluminados,
 puertas y bloques de partida especiales. A pesar del hecho

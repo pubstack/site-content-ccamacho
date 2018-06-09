@@ -89,7 +89,7 @@ follow to recharge your battery. Here we quote some of the safety tips that the
 experts have provided for the moment of charging our LiPo type battery. 
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-3.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-3.jpg" alt="">
         <p class="text-white">
 <strong>Always use an intelligent charger:</strong> At the time of charging your
 battery, since conventional chargers continue to feed energy into the battery 
@@ -99,7 +99,7 @@ of it until it burst.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-6.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-6.jpg" alt="">
         <p class="text-white">
 <strong>Do not charge your battery if it is still connected to your drone:</strong> 
 A LiPo battery cannot be treated like the batteries of conventional cell phones
@@ -121,7 +121,7 @@ In this section we explain how to proceed under exceptional circumstances and
 what other implements you can use to avoid accidents with your LiPo batteries. 
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-4.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-4.jpg" alt="">
         <p class="text-white">
 <strong>Do not lose sight of your battery when it is charging:</strong> 
 Most of the times the LiPo tend to fail just during the charging process, so it
@@ -133,7 +133,7 @@ if it does, causes no harm but to itself.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-5.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-5.jpg" alt="">
         <p class="text-white">
 <strong>Buy fireproof or flameproof bags:</strong> Although they are not a
 mandatory accessory, buying this type of bags greatly reduces the risks when 

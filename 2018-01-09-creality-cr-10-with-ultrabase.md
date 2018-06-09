@@ -67,7 +67,7 @@ and will assume any consequence and responsibility";
 ### Materials list
 
 <div class="nk-post-text mt-0">
-    <img style="height: 255px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_01.jpg" alt="">
+    <img style="height: 255px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_01.jpg" alt="">
         <p class="text-white">
 The purchases list of the components that we will need before carrying out
 this DIY tutorial will be mainly composed of screws,
@@ -102,7 +102,7 @@ We will need:
 ### Building it up
 
 <div class="nk-post-text mt-0">
-    <img style="height: 255px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_02.jpg" alt="">
+    <img style="height: 255px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_02.jpg" alt="">
         <p class="text-white">
 The first thing we will do is present and weld the 6-pin connector both in the heated bed and in the output of
 the controller of the CR-10 Mini.
@@ -131,7 +131,7 @@ we must respect the polarity (it is not necessary) by convention of the wiring, 
 of the heated bed.
 
 <div class="nk-post-text mt-0">
-    <img style="height: 255px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_03.jpg" alt="">
+    <img style="height: 255px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_03.jpg" alt="">
         <p class="text-white">
 Next, we will screw as you can see in the image, the 4 holes plate, the M4 screws, the self-locking nuts M4, and the original screws
 of the Anycubic Ultrabase. The final result can be seen in the image on the left.
@@ -155,7 +155,7 @@ We can see 3 views on how to assemble the plates in the heated bed, in this
 If the original screw of the Anycubic Ultrabase has been trimmed so that it does not bother.
  
 <div class="nk-post-text mt-0">
-    <img style="height: 255px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_04.jpg" alt="">
+    <img style="height: 255px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_04.jpg" alt="">
         <p class="text-white">
 Once the base is bolted we will proceed to present the springs next to the concave washer.
 </p>
@@ -175,7 +175,7 @@ The concave washer will allow us to eliminate the unevenness caused by the cutti
 <img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_044.jpg">
 
 <div class="nk-post-text mt-0">
-    <img style="height: 255px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_05.jpg" alt="">
+    <img style="height: 255px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_05.jpg" alt="">
         <p class="text-white">
 Then we will use heat-resistant duck tape to give a little more subjection to the original Ultrabase screws.
 In this case the tape we use supports up to 120 degrees Celsius and is fire resistant so there should be no risk of fire.

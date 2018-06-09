@@ -76,7 +76,7 @@ and even today is among the best performers with
 one of the best quality/price ratios.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-        <img style="width: 400px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-01-walkera-runner-250.jpg" alt="">
+        <img style="width: 400px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-01-walkera-runner-250.jpg" alt="">
         <p class="text-white">
     This is one of the
     drones that comes with everything included,
@@ -94,7 +94,7 @@ to its carbon fiber chassis and its powerful 1300 KV
 engines that provides a great reaction capacity.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-        <img style="width: 300px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-02-nighthawk-pro-280.jpg" alt="">
+        <img style="width: 300px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-02-nighthawk-pro-280.jpg" alt="">
         <p class="text-white">
     It also
     includes a Skyline 32 controller and has a complete FPV
@@ -115,7 +115,7 @@ install a GoPro camera or any other
 action camera available in the market.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-        <img style="width: 400px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-03-immersion-rc-vortex-250-pro.jpg" alt="">
+        <img style="width: 400px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-03-immersion-rc-vortex-250-pro.jpg" alt="">
         <p class="text-white">
     It is more
     expensive previous models but definitely worth it.
@@ -130,7 +130,7 @@ in our list, but paradoxically turns out to be
 one of the most complete and powerful drones.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-        <img style="width: 300px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-04-eachine-falcon-250.jpg" alt="">
+        <img style="width: 300px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-04-eachine-falcon-250.jpg" alt="">
         <p class="text-white">
     Created by
     Eachine, this drone has a carbon fiber
@@ -146,7 +146,7 @@ a high-end racing drone, the most expensive
 in the list.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-        <img style="width: 400px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-05-tilt-drone-x8.jpg" alt="">
+        <img style="width: 400px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/best-rtf-05-tilt-drone-x8.jpg" alt="">
         <p class="text-white">
     The TILT X8 has
     several advantages that will take your breath away, for

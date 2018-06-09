@@ -60,7 +60,7 @@ collaboration with DJI Japan.
 #### Arena
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-japan-03.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-japan-03.jpg" alt="">
         <p class="text-white">
 The fly arena is equipped with a safety
 net and a customizable circuit for those
@@ -74,7 +74,7 @@ catalog of consumer and professional products.
 #### Popularity
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-japan-04.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-japan-04.jpg" alt="">
         <p class="text-white">
 "Because it is important that our air technology continues to grow,
 the DJI Arena concept is a new way of engaging not only hobbyists,

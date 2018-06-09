@@ -74,7 +74,7 @@ is much less prone to blinking and its signal get less
 delay when rendering the video images. 
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-01.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-01.jpg" alt="">
     <p class="text-white">
     So, to choose the camera for your drone, you
     only must pay attention to a little detail regarding the
@@ -99,7 +99,7 @@ are transmitted at different frequencies and any
 interference between both must be avoided at all cost.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-    <img style="width: 350px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-02.jpg" alt="">
+    <img style="width: 350px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-02.jpg" alt="">
     <p class="text-white">
     The video transmitters can work properly at different radio frequencies,
     each them provide a series of advantages and disadvantages.
@@ -133,7 +133,7 @@ the receiver must also be working at a frequency of 5.8 GHz,
 because otherwise, our FPV system will not work at all.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-03.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-03.jpg" alt="">
     <p class="text-white">
     The most important part of the video receiver is the antenna
     because it will have more or less range depending
@@ -175,7 +175,7 @@ won't show a blue-screen, instead will continue to show you
 the path even with some interference.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-04.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-04.jpg" alt="">
     <p class="text-white">
     But if you want to live the whole drone racing experience from
     the beginning, you can invest a few more bucks in a pair of 

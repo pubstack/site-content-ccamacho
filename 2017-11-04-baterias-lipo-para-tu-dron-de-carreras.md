@@ -121,7 +121,7 @@ capacidad se suma y es el valor indicado por el número que acompaña
 a la "S" en cada modelo.
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/LiPo-cells.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/LiPo-cells.jpg" alt="">
         <p class="text-white">
 Una batería 1S solo tiene una celda de 3,7 V,
 en cambio una 3S sera una batería que cuenta con tres celdas
@@ -136,7 +136,7 @@ su correcto funcionamiento.
 almacenamiento que posee la batería, mientras más grande sea
 este número mayor será el tiempo de vuelo.
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/LiPo-batteries.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/LiPo-batteries.jpg" alt="">
         <p class="text-white">
 En general las baterías con una capacidad de almacenamiento grande son
 pesadas, grandes y mucho más costosas que el resto. Así que
@@ -152,7 +152,7 @@ sin riesgo de dañar la batería en sí o
 cualquier otro componente del dron.
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/LiPo-c-rate.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/LiPo-c-rate.jpg" alt="">
         <p class="text-white">
 Una batería 25C significa que debemos multiplicar 25
 por la capacidad de la misma en amperios y así obtener la

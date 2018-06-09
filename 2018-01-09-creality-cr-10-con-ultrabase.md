@@ -67,7 +67,7 @@ y asumirá cualquier consecuencia y responsabilidad";
 ### Lista de materiales
 
 <div class="nk-post-text mt-0">
-    <img style="height: 255px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_01.jpg" alt="">
+    <img style="height: 255px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_01.jpg" alt="">
         <p class="text-white">
 La lista de compras de los componentes que necesitaremos antes de llevar a cabo
 este tutorial DIY estará compuesta principalmente por tornillos,
@@ -102,7 +102,7 @@ Necesitaremos:
 ### Ensamblado
 
 <div class="nk-post-text mt-0">
-    <img style="height: 255px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_02.jpg" alt="">
+    <img style="height: 255px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_02.jpg" alt="">
         <p class="text-white">
 Lo primero que haremos será presentar y soldar el conector de 6 pines tanto en la cama caliente como en la salida de
 la controladora de la CR-10 Mini.
@@ -131,7 +131,7 @@ deberemos respetar la polaridad (no es necesario) por convención del cableado y
 de la cama caliente.
 
 <div class="nk-post-text mt-0">
-    <img style="height: 255px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_03.jpg" alt="">
+    <img style="height: 255px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_03.jpg" alt="">
         <p class="text-white">
 Seguidamente atornillaremos como se puede ver en la imagen, las uniones de 4 huecos, los tornillos M4, las tuercas autoblocantes M4, y los tornillos originales
 de la Anycubic Ultrabase. El resultado final puede verse en la imagen a la izquierda.
@@ -155,7 +155,7 @@ Podemos ver 3 vistas sobre cómo ensamblar la unión en la cama caliente, en est
 caso el tornillo original de la Anycubic Ultrabase lo hemos recortado para que no moleste.
  
 <div class="nk-post-text mt-0">
-    <img style="height: 255px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_04.jpg" alt="">
+    <img style="height: 255px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_04.jpg" alt="">
         <p class="text-white">
 Una vez atornillada la base procederemos a presentar los muelles junto a la arandela cóncava.
 </p>
@@ -175,7 +175,7 @@ La arandela cóncava nos permitirá eliminar el desnivel causado por el corte de
 <img src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_044.jpg">
 
 <div class="nk-post-text mt-0">
-    <img style="height: 255px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_05.jpg" alt="">
+    <img style="height: 255px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/cr-10_ultrabase_05.jpg" alt="">
         <p class="text-white">
 Después utilizaremos cinta americana resistente al calor para dar un poco mas se sujeción a los tornillos originales de la Ultrabase.
 En este caso la cinta que utilizamos soporta hasta 120 grados centígrados y es ignífuga con lo que no debería haber riesgo de incendio.

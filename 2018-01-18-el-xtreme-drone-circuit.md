@@ -78,7 +78,7 @@ Sin embargo, no sería hasta el año 2015 cuando surgiría
 el primer gran evento de carreras de drones, conocido como el Xtreme Drone Circuit. 
 
 <div class="nk-post-text mt-0">
-    <img style="height: 200px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/XDC-04.jpg" alt="">
+    <img style="height: 200px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/XDC-04.jpg" alt="">
         <p class="text-white">
 Fue por el mes de enero del año 2015, donde un grupo de entusiasta de los drones 
 se decidió a dar origen a uno de los eventos más famosos del mundo, 

@@ -102,7 +102,7 @@ it is not necessary to spend large amounts of money to achieve
 the goals that we go for, here are the 3 cameras that we recommend:
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/eypro-1.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/eypro-1.jpg" alt="">
         <p class="text-white">
 <strong>Eypro 1:</strong> A camera that is a little warrior, it
 resists water, dust, and wind without affecting the microphone.
@@ -114,7 +114,7 @@ send all the images directly to your smartphone or tablet.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/yi-action.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/yi-action.jpg" alt="">
         <p class="text-white">
 <strong>Yi Action:</strong>  Although we are talking about a
 relatively old model, this camera is still one of the best
@@ -126,7 +126,7 @@ content, while the range of its WiFi can reach 100 meters.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-6s.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/firefly-6s.jpg" alt="">
         <p class="text-white">
 <strong>Firefly 6S:</strong> It is the highest resolution
 sports camera on our list and one of the few that can be

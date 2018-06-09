@@ -73,7 +73,7 @@ The most relevant feature is that it doesn't need any transponder attached to th
 Regarding the specifications we have the following:
 
 <div class="nk-post-text mt-0">
-    <img style="height: 255px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/laprf6.jpg" alt="">
+    <img style="height: 255px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/laprf6.jpg" alt="">
         <p class="text-white">
 <strong>2600mAh integrated battery:</strong> It has a built-in
 battery chargeable thru a USB port.
@@ -81,7 +81,7 @@ battery chargeable thru a USB port.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/laprf2.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/laprf2.jpg" alt="">
         <p class="text-white">
 <strong>Custom timing receivers:</strong> The ImmersionRC team designed
 a custom receiver module that adapts to the different power levels of

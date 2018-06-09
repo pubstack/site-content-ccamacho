@@ -104,7 +104,7 @@ which we could not find a solution, is that PCs do not recognize them,
 and that is why it has not been possible to verify the quality on the screen.
 
 <div class="nk-post-text mt-0">
-    <img style="height: 200px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fx7-4.jpg" alt="">
+    <img style="height: 200px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fx7-4.jpg" alt="">
         <p class="text-white">
 Conclusion: The TopSky F7X goggles are the ideal accessory if you
 are just getting started in the FPV world because they offer you

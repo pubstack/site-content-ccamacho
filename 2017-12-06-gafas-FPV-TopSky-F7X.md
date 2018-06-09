@@ -99,7 +99,7 @@ es que las PC no las detectan y es por ello que no se ha podido comprobar
 la calidad en pantalla, pero desde el visor es una maravilla.
 
 <div class="nk-post-text mt-0">
-    <img style="height: 200px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fx7-4.jpg" alt="">
+    <img style="height: 200px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fx7-4.jpg" alt="">
         <p class="text-white">
 En conclusión: Las gafas TopSky F7X, son el accesorio ideal si apenas te estas 
 adentrando en el mundo de las carreras de drones, porque te ofrecen muchas 

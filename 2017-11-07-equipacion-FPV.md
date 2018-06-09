@@ -77,7 +77,7 @@ es que este tipo de equipo es que tiene menos latencia
 en la transmisión del vídeo.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-01.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-01.jpg" alt="">
     <p class="text-white">
     Para elegir la cámara 
     solo deberás prestar atención a un pequeño detalle, que es el
@@ -99,7 +99,7 @@ separado y se debe evitar a toda costa que
 interfieran entre sí.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-    <img style="width: 350px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-02.jpg" alt="">
+    <img style="width: 350px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-02.jpg" alt="">
     <p class="text-white">
     Los transmisores de vídeo pueden trabajar en diferentes frecuencias,
     cada una de las cuales aportará una serie de ventajas y
@@ -139,7 +139,7 @@ una frecuencia de 5.8 GHz, de lo contrario nuestro
 sistema FPV no funcionará.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-03.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-03.jpg" alt="">
     <p class="text-white">
     La parte más importante del receptor de vídeo es la antena,
     ya que dependiendo del modelo tendrán mayor o
@@ -185,7 +185,7 @@ rectángulo azul, sino que por el contrario se siga
 captando el camino aún con interferencia.
     <div class="nk-gap-1"></div>
     <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-04.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/fpv-equipment-04.jpg" alt="">
     <p class="text-white">
     Si deseas vivir la experiencia de las carreras de drondes
     en primera persona, puedes invertir un poco de tú dinero en unas

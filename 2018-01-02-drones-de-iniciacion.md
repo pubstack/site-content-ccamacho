@@ -100,7 +100,7 @@ tres características te recomendamos los siguientes modelos:
 
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/syma_01.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/syma_01.jpg" alt="">
         <p class="text-white">
 <strong>Syma X5C:</strong> Este es el dron de iniciación por excelencia, tanto así, que es
 el modelo más vendido a través de Amazon. Tiene integrada una cámara
@@ -112,7 +112,7 @@ horas de vuelo.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/syma_02.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/syma_02.jpg" alt="">
         <p class="text-white">
 <strong>Syma X5HC:</strong> Un modelo con características más avanzadas que el anterior,
 por ejemplo cuenta con un sistema de mantenimiento de altura, permitiéndonos
@@ -124,7 +124,7 @@ de mantener presionada la palanca del R/C.
 
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/syma_03.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/syma_03.jpg" alt="">
         <p class="text-white">
 <strong>Syma X5UC:</strong> Por último tenemos el modelo para los que quieren vivir la
 experiencia de pilotar un dron en modo a prueba de fallos, ya que este

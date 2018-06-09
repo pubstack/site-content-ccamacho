@@ -60,7 +60,7 @@ colaboración con DJI Japan.
 #### Arena
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-japan-03.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-japan-03.jpg" alt="">
         <p class="text-white">
 La pista de vuelo está equipada con una red de seguridad
 y un circuito personalizable para aquellos
@@ -75,7 +75,7 @@ profesional.
 #### Popularity
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-japan-04.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/dji-arena-japan-04.jpg" alt="">
         <p class="text-white">
 "Porque es importante que nuestra tecnología continúe creciendo,
 el concepto DJI Arena es una nueva forma de involucrar no solo a los aficionados,

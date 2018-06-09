@@ -91,7 +91,7 @@ less than one month, they decided to raise the stakes and try to collect
 80.000 USD to include an extra battery.
 
 <div class="nk-post-text mt-0">
-    <img style="height: 200px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/drone-racing.jpg" alt="">
+    <img style="height: 200px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/drone-racing.jpg" alt="">
         <p class="text-white">
 Nowadays, it is already available in the market, also, they
 created a big competition for this brand, meaning that

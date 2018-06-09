@@ -95,7 +95,7 @@ consejos de seguridad que los expertos han proporcionado para el momento de
 cargar nuestra batería tipo LiPo. 
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-3.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-3.jpg" alt="">
         <p class="text-white">
 <strong>Siempre utiliza un cargador inteligente:</strong> Al momento de cargar
 tu batería, ya que los cargadores convencionales siguen enviando energía hacia
@@ -105,7 +105,7 @@ puede producir un recalentamiento de la misma hasta hacerla estallar.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-6.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-6.jpg" alt="">
         <p class="text-white">
 <strong>Nunca cargues tu batería si aún se encuentra conectada a tu drone:</strong> 
 Una batería LiPo no se puede tratar como las baterías de los celulares 
@@ -128,7 +128,7 @@ que otros implementos puedes utilizar para evitar los accidentes con tus
 baterías LiPo. 
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-4.jpg" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-4.jpg" alt="">
         <p class="text-white">
 <strong>No pierdas de vista tu batería cuando se está cargando:</strong> 
 La mayoría de las veces las LiPo tienden a fallar justo durante el proceso de
@@ -141,7 +141,7 @@ no dañe nada más que a sí misma.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-5.jpg" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="/assets/images_articles/{{ page.gitlab_author_id }}/images/bateria-5.jpg" alt="">
         <p class="text-white">
 <strong>Comprar bolsas contrafuego o ignifugas:</strong> Aunque no son un 
 accesorio obligatorio, comprar este tipo de bolsas reduce muchísimo los riesgos
