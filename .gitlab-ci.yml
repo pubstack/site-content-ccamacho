@@ -1,3 +1,4 @@
+#Check site-theme main .gitlab-ci.yaml file for updates
 variables:
   FORMULAD_USER: "ccamacho"
 
@@ -57,6 +58,8 @@ build_draft:
     - gem install highscore
     - gem install bloomfilter-rb
     - gem install stemmer
+    # To generate the patreon collaborators list
+    - gem install patreon
     # Build the site
     - ./scripts/build_site.sh include-drafts
     # Install Java deps for s3_website
