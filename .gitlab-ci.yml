@@ -42,6 +42,8 @@ sync_site:
 build_draft:
   stage: deploy_draft
   script:
+    - curl -sL https://deb.nodesource.com/setup_10.x | bash -
+    - apt-get install -y nodejs
     - mkdir temp
     - cd temp
     - git clone --recursive git@gitlab.com:formulad/site-theme.git
