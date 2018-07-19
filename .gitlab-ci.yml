@@ -2,7 +2,7 @@
 variables:
   FORMULAD_USER: "ccamacho"
 
-image: ruby:2.2
+image: ruby:2.3
 
 stages:
   - deploy
