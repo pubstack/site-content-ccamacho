@@ -58,6 +58,7 @@ build_draft:
     - gem install highscore
     - gem install bloomfilter-rb
     - gem install stemmer
+    - gem install jekyll-minifier
     # To generate the patreon collaborators list
     - gem install patreon
     # Build the site
